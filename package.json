@@ -1,7 +1,7 @@
 {
   "name": "gatekeeper-sspi",
   "description": "GateKeeper Authentication compatible with the esoteric Microsoft GateKeeper SSPI",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.coffee",
   "dependencies": {
     "coffee-script": "^1.10.0",
