@@ -1,5 +1,5 @@
 {
-  "name": "GateKeeper",
+  "name": "gatekeeper-sspi",
   "description": "GateKeeper Authentication compatible with the esoteric Microsoft GateKeeper SSPI",
   "version": "0.0.1",
   "main": "index.coffee",
